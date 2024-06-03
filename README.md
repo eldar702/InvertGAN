@@ -34,7 +34,8 @@ The model is trained on a dataset of 2000 paintings by Bela Czobel and Camille P
 
 ## Results
 InvertGAN has been shown to maintain higher detail fidelity and fewer artifacts compared to traditional CycleGAN, particularly in complex areas such as intricate textures and sharp color transitions. Performance metrics such as PSNR and SSIM are used to quantitatively assess the model's performance.
-![alt text](https://github.com/eldar702/InvertGAN/tree/main/generated%20photos/Picture1.png?raw=true)
+![alt text](https://github.com/eldar702/InvertGAN/raw/main/generated%20photos/Picture1.png)
+
 
 ## Contributing
 Contributions are welcome. Please fork the repository and submit a pull request.
