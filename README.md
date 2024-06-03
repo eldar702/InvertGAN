@@ -48,8 +48,8 @@ Contributions are welcome. Please fork the repository and submit a pull request.
 
 
 ## Contact
-For any queries or further information, please contact [Your Email].
+For any queries or further information, please contact [Eldarshlomi7@gmail.com].
 
 ---
 
-Make sure to fill in or adjust any placeholders, such as the `License` or `Contact` sections, based on your actual project details or preferences.
+
